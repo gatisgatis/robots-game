@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2887016.css",
-    "main.js": "/static/js/main.bb311a83.js",
-    "index.html": "/index.html",
-    "main.c2887016.css.map": "/static/css/main.c2887016.css.map",
-    "main.bb311a83.js.map": "/static/js/main.bb311a83.js.map"
+    "main.css": "/robots-game/static/css/main.c2887016.css",
+    "main.js": "/robots-game/static/js/main.bb311a83.js",
+    "index.html": "/robots-game/index.html",
+    "main.c2887016.css.map": "/robots-game/static/css/main.c2887016.css.map",
+    "main.bb311a83.js.map": "/robots-game/static/js/main.bb311a83.js.map"
   },
   "entrypoints": [
     "static/css/main.c2887016.css",
