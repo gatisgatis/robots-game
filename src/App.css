@@ -3,3 +3,11 @@
     justify-content: center;
     align-items: center;
 }
+
+.content-wrapper {
+    max-width: 400px;
+}
+
+.output {
+    text-transform: capitalize;
+}
